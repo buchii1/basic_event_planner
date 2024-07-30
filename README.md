@@ -2,11 +2,9 @@
 
 ## Overview
 
-This project implements a Basic Event Planner software that allows users to manage users, events, and invitations. It integrates with a cloud database, specifically Firebase Firestore, for storing and retrieving data. The software provides functionalities to add, update, delete, and retrieve users, events, and invitations. 
+This project implements a Basic Command Line Event Planner software that allows users to manage users, events, and invitations. It integrates with a cloud database, specifically Firebase Firestore, for storing and retrieving data. The software provides functionalities to add, update, delete, and retrieve users, events, and invitations. 
 
 The purpose of this software is to demonstrate proficiency in Python programming and integration with cloud services.
-
-[Software Demo Video](https://youtu.be/OukEsWnM_Kg)
 
 ## Cloud Database
 
